@@ -1,0 +1,3 @@
+[submodule "42Cursus-00-libft"]
+	path = 42Cursus-00-libft
+	url = git@github.com:raqelcb/42Cursus-00-libft.git
