@@ -13,3 +13,6 @@
 [submodule "42Cursus-02-push_swap"]
 	path = 42Cursus-02-push_swap
 	url = git@github.com:raqelcb/42Cursus-02-push_swap.git
+[submodule "42Cursus-02-minitalk"]
+	path = 42Cursus-02-minitalk
+	url = git@github.com:raqelcb/42Cursus-02-minitalk.git
