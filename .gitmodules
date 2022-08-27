@@ -7,3 +7,6 @@
 [submodule "42Cursus-01-get_next_line"]
 	path = 42Cursus-01-get_next_line
 	url = git@github.com:raqelcb/42Cursus-01-get_next_line.git
+[submodule "42Cursus-01-ft_printf"]
+	path = 42Cursus-01-ft_printf
+	url = git@github.com:raqelcb/42Cursus-01-ft_printf.git
