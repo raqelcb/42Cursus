@@ -4,3 +4,6 @@
 [submodule "42Cursus-01-born2beroot"]
 	path = 42Cursus-01-born2beroot
 	url = git@github.com:raqelcb/42Cursus-01-born2beroot.git
+[submodule "42Cursus-01-get_next_line"]
+	path = 42Cursus-01-get_next_line
+	url = git@github.com:raqelcb/42Cursus-01-get_next_line.git
