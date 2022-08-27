@@ -1,3 +1,6 @@
 [submodule "42Cursus-00-libft"]
 	path = 42Cursus-00-libft
 	url = git@github.com:raqelcb/42Cursus-00-libft.git
+[submodule "42Cursus-01-born2beroot"]
+	path = 42Cursus-01-born2beroot
+	url = git@github.com:raqelcb/42Cursus-01-born2beroot.git
