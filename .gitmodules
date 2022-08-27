@@ -10,3 +10,6 @@
 [submodule "42Cursus-01-ft_printf"]
 	path = 42Cursus-01-ft_printf
 	url = git@github.com:raqelcb/42Cursus-01-ft_printf.git
+[submodule "42Cursus-02-push_swap"]
+	path = 42Cursus-02-push_swap
+	url = git@github.com:raqelcb/42Cursus-02-push_swap.git
